@@ -39,5 +39,6 @@ Becoming an industry-ready Healthcare Data Analyst by building real-world projec
 
 📫 Connect With Me!
 
-📧 Email: Shivadarshini28@gmail.com.
-💼 LinkedIn: https://www.linkedin.com/in/shiva-darshini/.
+📧 Email: Shivadarshini28@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/shiva-darshini/

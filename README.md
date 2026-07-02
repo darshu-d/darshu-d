@@ -1,6 +1,8 @@
 ## 👋 Hi I'm Shivadarshini Sreekanth 
 
-🎓 MSc Health Data Science - University of Galway | BCA Data Science - SRM Institute of Science and Technology
+🎓 MSc Health Data Science - University of Galway | BCA Data Science - SRM Institute of Science and Technology.
+
+
 📊 Aspiring Healthcare Data Analyst - Passionate about turning healthcare data into meaningful insights that improve patient care, support clinical research, and drive evidence-based decisions.
 
 🔬 Areas of Interest:

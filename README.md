@@ -25,7 +25,7 @@ Data Analytics:
 - Tableau
 - Pandas
 - NumPy
-= Scikit-Learn
+- Scikit-Learn
 
 Statistics:
 - Survival Analysis

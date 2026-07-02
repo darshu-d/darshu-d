@@ -34,8 +34,10 @@ Statistics:
 - Clinical Analytics
 
 🚀 Current Goal:
+
 Becoming an industry-ready Healthcare Data Analyst by building real-world projects in clinical research, healthcare, and business analytics.
 
 📫 Connect With Me!
-📧 Email: Shivadarshini28@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shiva-darshini/
+
+📧 Email: Shivadarshini28@gmail.com.
+💼 LinkedIn: https://www.linkedin.com/in/shiva-darshini/.

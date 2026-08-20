@@ -49,7 +49,7 @@ and investigates approaches beyond conventional single-endpoint clinical trial a
 
 ---
 
-## 🚀 Selected Research & Projects
+## 🚀 Other Research works & Projects
 
 ### 🩺 Automatic Cell Counting Using Computer Vision
 
@@ -168,7 +168,7 @@ Research manuscript currently **under review**.
 
 ## 🎯 Current Goal
 
-I am currently exploring **PhD opportunities in Healthcare AI, Machine Learning, Computer Vision, Edge AI and intelligent healthcare systems**.
+I am currently exploring **Research opportunities in Healthcare AI, Machine Learning, Computer Vision, Edge AI and intelligent healthcare systems**.
 
 I am particularly interested in research involving:
 
@@ -180,4 +180,3 @@ I am particularly interested in research involving:
 
 📧 **Email:** [shivadarshini28@gmail.com](mailto:shivadarshini28@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/shiva-darshini](https://www.linkedin.com/in/shiva-darshini/)
-💻 **GitHub:** Explore my repositories below ↓
